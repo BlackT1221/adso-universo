@@ -15,9 +15,15 @@ UNIVERSO = [
         "clase": "Mago del Backend",
         "habilidad_especial": "Resuelve Bugs 500 con la mirada",
         "nivel": 99
-    }
+    },
     # ⬇ AGREGA TU PERSONAJE AQUÍ ABAJO (Recuerda poner la coma si eres el primero) ⬇
-    
+    {
+        "creador": "Juan David Ochoa Quenan",
+        "nombre": "Billie Eilish",
+        "clase": "Artista",
+        "habilidad_especial": "Compositor de musica",
+        "nivel": 999
+    }
 ]
 
 @router.get("/")
