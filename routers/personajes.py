@@ -28,7 +28,7 @@ UNIVERSO = [
          "creador": "Michell Aranzalez",
         "nombre": "El Guerrero Del Codigo",
         "clase": "Heroe del codigo",
-        "habilidad_especial": "Rafagas de codigo limpio que elimina enemigos en segundos",
+        "habilidad_especial": "Rafagas de codigo limpio que elimina varios enemigos en segundos",
         "nivel": 90
     }
 ]
