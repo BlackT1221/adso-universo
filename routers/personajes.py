@@ -50,7 +50,17 @@ UNIVERSO = [
         "habilidad_especial": "Rafagas de codigo limpio que elimina varios enemigos en segundos",
         "nivel": 90
     }
+
+
+,{
+        "creador": "David Rodríguez",
+        "nombre": "Electrollick",
+        "clase": "Francotirador de Python",
+        "habilidad_especial": "Elimina bugs a distancia con scripts rápidos y precisos",
+        "nivel": 50
+    }
 ]
+
 
 @router.get("/")
 def obtener_todos_los_personajes():
