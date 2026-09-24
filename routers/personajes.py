@@ -18,11 +18,11 @@ UNIVERSO = [
     }
     # ⬇ AGREGA TU PERSONAJE AQUÍ ABAJO (Recuerda poner la coma si eres el primero) ⬇
     ,{
-        "creador": "Christian Martínez",
-        "nombre": "El Mago SQL",
-        "clase": "Hechicero de las bases de datos",
-        "habilidad_especial": "Hace inner joins con un solo hechizo",
-        "nivel": 100
+        "creador": "Santiago Chaves",
+        "nombre": "jake",
+        "clase": "perro magico",
+        "habilidad_especial": "cambia formas y flexibilidad",
+        "nivel": 200
     }
 ]
 
