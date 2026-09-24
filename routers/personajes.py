@@ -23,8 +23,9 @@ UNIVERSO = [
         "clase": "Hechicero de las bases de datos",
         "habilidad_especial": "Hace inner joins con un solo hechizo",
         "nivel": 100
-    }    
-    ,{    "creador": "cristian camilo",
+    },    
+    {
+        "creador": "cristian camilo",
         "nombre": "vanitas",
         "clase": "mago blanco",
         "habilidad_especial": "curar culaquier herida y efecto negativo invuido por una pocion sin limitaciones algunas",
@@ -93,6 +94,13 @@ UNIVERSO = [
         "clase": "Guerrero",
         "habilidad_especial": "Chorro agri dulce",
         "nivel": 102
+    }
+    ,{
+        "creador": "Santiago chaves",
+        "nombre": "jake",
+        "clase": "perro magico",
+        "habilidad_especial": "cambia formas y flexible",
+        "nivel": 150
     }
 ]
 
