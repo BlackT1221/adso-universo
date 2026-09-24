@@ -24,6 +24,14 @@ UNIVERSO = [
         "habilidad_especial": "Hace inner joins con un solo hechizo",
         "nivel": 100
     }
+        
+      ,{
+        "creador": "Cristhian Pulgarin",
+        "nombre": "El emperador de la ia",
+        "clase": "Emperador de inteligencia artificial",
+        "habilidad_especial": "Hacer todo con ia jaja",
+        "nivel": 1000
+    }
 ]
 
 @router.get("/")
