@@ -24,6 +24,13 @@ UNIVERSO = [
         "habilidad_especial": "Hace inner joins con un solo hechizo",
         "nivel": 100
     }
+    ,{
+        "creador": "Maria Paula Padilla Calderon",
+        "nombre": "Don Error 500",
+        "clase": "Villano informatico",
+        "habilidad_especial": "Crear caos a su alrededor",
+        "nivel": 98
+    }
 ]
 
 @router.get("/")
