@@ -20,8 +20,8 @@ UNIVERSO = [
     {
         "creador": "Juan David Ochoa Quenan",
         "nombre": "Billie Eilish",
-        "clase": "Artista",
-        "habilidad_especial": "Compositor de musica",
+        "clase": "Artista Musical",
+        "habilidad_especial": "Compositora de musica",
         "nivel": 999
     }
 ]
