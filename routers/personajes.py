@@ -25,6 +25,12 @@ UNIVERSO = [
         "nivel": 100
     }
     ,{
+        "creador": "Luna Hernandez",
+        "nombre": "Lyra Noctis",
+        "clase": "Hechicero Espacial",
+        "habilidad_especial": "Crear portales entre planetas",
+        "nivel": 150
+    ,{
         "creador": "Maria Paula Padilla Calderon",
         "nombre": "Don Error 500",
         "clase": "Villano informatico",
