@@ -28,7 +28,7 @@ UNIVERSO = [
         "creador": "Maria Paula Padilla Calderon",
         "nombre": "Don Error 500",
         "clase": "Villano informatico",
-        "habilidad_especial": "Crear caos a su alrededor",
+        "habilidad_especial": "Crear mucho caos a su alrededor",
         "nivel": 98
     }
 ]
