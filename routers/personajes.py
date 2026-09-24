@@ -24,6 +24,14 @@ UNIVERSO = [
         "habilidad_especial": "Hace inner joins con un solo hechizo",
         "nivel": 100
     }
+
+    ,{
+        "creador": "Luna Hernandez",
+        "nombre": "Lyra Noctis",
+        "clase": "Hechicero Espacial",
+        "habilidad_especial": "Crear portales entre planetas",
+        "nivel": 150
+    }
 ]
 
 @router.get("/")
