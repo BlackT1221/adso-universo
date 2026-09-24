@@ -23,6 +23,16 @@ UNIVERSO = [
         "clase": "Hechicero de las bases de datos",
         "habilidad_especial": "Hace inner joins con un solo hechizo",
         "nivel": 100
+    },
+
+    { "creador": "Cristian Quevedo",
+        "nombre": "fantasma real",
+        "clase": "fantasma borra lineas",
+        "habilidad_especial": "borra base de datos",
+        "nivel": 67  
+
+
+
     }
 ]
 
