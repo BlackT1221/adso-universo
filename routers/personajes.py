@@ -24,7 +24,17 @@ UNIVERSO = [
         "habilidad_especial": "Hace inner joins con un solo hechizo",
         "nivel": 100
     }
+
+
+,{
+        "creador": "David Rodríguez",
+        "nombre": "Electrollick",
+        "clase": "Francotirador de Python",
+        "habilidad_especial": "Elimina bugs a distancia con scripts rápidos y precisos",
+        "nivel": 50
+    }
 ]
+
 
 @router.get("/")
 def obtener_todos_los_personajes():
