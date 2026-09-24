@@ -17,6 +17,14 @@ UNIVERSO = [
         "nivel": 99
     }
     # ⬇ AGREGA TU PERSONAJE AQUÍ ABAJO (Recuerda poner la coma si eres el primero) ⬇
+    {
+        "creador": "Christian Martínez",
+        "nombre": "El Mago SQL",
+        "clase": "Hechicero de las bases de datos",
+        "habilidad_especial": "Hace inner joins con un solo hechizo",
+        "nivel": 100
+    },
+    
     ,{
         "creador": "Duvan Rodriguez",
         "nombre": "Cristian Chiquitin",
