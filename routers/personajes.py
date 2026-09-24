@@ -24,13 +24,25 @@ UNIVERSO = [
         "habilidad_especial": "Hace inner joins con un solo hechizo",
         "nivel": 100
     }
-
     ,{
         "creador": "Luna Hernandez",
         "nombre": "Lyra Noctis",
         "clase": "Hechicero Espacial",
         "habilidad_especial": "Crear portales entre planetas",
         "nivel": 150
+    ,{
+        "creador": "Maria Paula Padilla Calderon",
+        "nombre": "Don Error 500",
+        "clase": "Villano informatico",
+        "habilidad_especial": "Crear mucho caos a su alrededor",
+        "nivel": 98
+    }
+    ,{
+        "creador": "Michell Aranzalez",
+        "nombre": "El Guerrero Del Codigo",
+        "clase": "Heroe del codigo",
+        "habilidad_especial": "Rafagas de codigo limpio que elimina varios enemigos en segundos",
+        "nivel": 90
     }
 ]
 
