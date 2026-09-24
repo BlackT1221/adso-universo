@@ -23,6 +23,14 @@ UNIVERSO = [
         "clase": "Hechicero de las bases de datos",
         "habilidad_especial": "Hace inner joins con un solo hechizo",
         "nivel": 100
+    },
+    {
+        "creador": "Jeffry duarte",
+        "nombre": "izuichi",
+        "clase": "asesino-magico",
+        "habilidad_especial": "torcion testicular",
+        "nivel": 100
+
     }        
     ,{
         "creador": "Cristhian Pulgarin",
@@ -30,12 +38,14 @@ UNIVERSO = [
         "clase": "Emperador de inteligencia artificial",
         "habilidad_especial": "Hacer todo con ia jaja",
         "nivel": 1000
+    }
     ,{
         "creador": "Luna Hernandez",
         "nombre": "Lyra Noctis",
         "clase": "Hechicero Espacial",
         "habilidad_especial": "Crear portales entre planetas",
         "nivel": 150
+    }
     ,{
         "creador": "Maria Paula Padilla Calderon",
         "nombre": "Don Error 500",
@@ -50,9 +60,7 @@ UNIVERSO = [
         "habilidad_especial": "Rafagas de codigo limpio que elimina varios enemigos en segundos",
         "nivel": 90
     }
-
-
-,{
+    ,{
         "creador": "David Rodríguez",
         "nombre": "Electrollick",
         "clase": "Francotirador de Python",
