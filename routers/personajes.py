@@ -18,6 +18,12 @@ UNIVERSO = [
     },
     # ⬇ AGREGA TU PERSONAJE AQUÍ ABAJO (Recuerda poner la coma si eres el primero) ⬇
     {
+        "creador": "Juan David Ochoa Quenan",
+        "nombre": "Billie Eilish",
+        "clase": "Artista Musical",
+        "habilidad_especial": "Compositora de musica",
+        "nivel": 999
+    },
         "creador": "Christian Martínez",
         "nombre": "El Mago SQL",
         "clase": "Hechicero de las bases de datos",
@@ -101,6 +107,7 @@ UNIVERSO = [
         "clase": "perro magico",
         "habilidad_especial": "cambia formas y flexible",
         "nivel": 150
+
     }
 ]
 
