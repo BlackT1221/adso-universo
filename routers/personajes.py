@@ -23,8 +23,94 @@ UNIVERSO = [
         "clase": "Artista Musical",
         "habilidad_especial": "Compositora de musica",
         "nivel": 999
+    },
+        "creador": "Christian Martínez",
+        "nombre": "El Mago SQL",
+        "clase": "Hechicero de las bases de datos",
+        "habilidad_especial": "Hace inner joins con un solo hechizo",
+        "nivel": 100
+    },    
+    {
+        "creador": "cristian camilo",
+        "nombre": "vanitas",
+        "clase": "mago blanco",
+        "habilidad_especial": "curar culaquier herida y efecto negativo invuido por una pocion sin limitaciones algunas",
+        "nivel": 200
+    }
+    ,{
+        "creador": "Duvan Rodriguez",
+        "nombre": "Cristian Chiquitin",
+        "clase": "Maestro six seven",
+        "habilidad_especial": "Hacer perder aura a sus enemigos",
+        "nivel": 10000
+    },
+    { 
+        "creador": "Cristian Quevedo",
+        "nombre": "fantasma real",
+        "clase": "fantasma borra lineas",
+        "habilidad_especial": "borra base de datos",
+        "nivel": 67  
+    },
+    {
+        "creador": "Jeffry duarte",
+        "nombre": "izuichi",
+        "clase": "asesino-magico",
+        "habilidad_especial": "torcion testicular",
+        "nivel": 100
+
+    }        
+    ,{
+        "creador": "Cristhian Pulgarin",
+        "nombre": "El emperador de la ia",
+        "clase": "Emperador de inteligencia artificial",
+        "habilidad_especial": "Hacer todo con ia jaja",
+        "nivel": 1000
+    }
+    ,{
+        "creador": "Luna Hernandez",
+        "nombre": "Lyra Noctis",
+        "clase": "Hechicero Espacial",
+        "habilidad_especial": "Crear portales entre planetas",
+        "nivel": 150
+    }
+    ,{
+        "creador": "Maria Paula Padilla Calderon",
+        "nombre": "Don Error 500",
+        "clase": "Villano informatico",
+        "habilidad_especial": "Crear mucho caos a su alrededor",
+        "nivel": 98
+    }
+    ,{
+        "creador": "Michell Aranzalez",
+        "nombre": "El Guerrero Del Codigo",
+        "clase": "Heroe del codigo",
+        "habilidad_especial": "Rafagas de codigo limpio que elimina varios enemigos en segundos",
+        "nivel": 90
+    }
+    ,{
+        "creador": "David Rodríguez",
+        "nombre": "Electrollick",
+        "clase": "Francotirador de Python",
+        "habilidad_especial": "Elimina bugs a distancia con scripts rápidos y precisos",
+        "nivel": 50
+    }
+    ,{
+        "creador": "Jonhatan Portillo",
+        "nombre": "Mango viche",
+        "clase": "Guerrero",
+        "habilidad_especial": "Chorro agri dulce",
+        "nivel": 102
+    }
+    ,{
+        "creador": "Santiago chaves",
+        "nombre": "jake",
+        "clase": "perro magico",
+        "habilidad_especial": "cambia formas y flexible",
+        "nivel": 150
+
     }
 ]
+
 
 @router.get("/")
 def obtener_todos_los_personajes():
