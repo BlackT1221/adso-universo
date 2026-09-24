@@ -24,6 +24,7 @@ UNIVERSO = [
         "habilidad_especial": "Compositora de musica",
         "nivel": 999
     },
+    {
         "creador": "Christian Martínez",
         "nombre": "El Mago SQL",
         "clase": "Hechicero de las bases de datos",
