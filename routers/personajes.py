@@ -59,6 +59,13 @@ UNIVERSO = [
         "habilidad_especial": "Elimina bugs a distancia con scripts rápidos y precisos",
         "nivel": 50
     }
+    ,{
+            "creador": "Jonhatan Portillo",
+            "nombre": "Mango viche",
+            "clase": "Guerrero",
+            "habilidad_especial": "Chorro agri dulce",
+            "nivel": 102
+        }
 ]
 
 
