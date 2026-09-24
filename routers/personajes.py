@@ -31,8 +31,44 @@ UNIVERSO = [
         "habilidad_especial": "torcion testicular",
         "nivel": 100
 
+    }        
+    ,{
+        "creador": "Cristhian Pulgarin",
+        "nombre": "El emperador de la ia",
+        "clase": "Emperador de inteligencia artificial",
+        "habilidad_especial": "Hacer todo con ia jaja",
+        "nivel": 1000
+    }
+    ,{
+        "creador": "Luna Hernandez",
+        "nombre": "Lyra Noctis",
+        "clase": "Hechicero Espacial",
+        "habilidad_especial": "Crear portales entre planetas",
+        "nivel": 150
+    }
+    ,{
+        "creador": "Maria Paula Padilla Calderon",
+        "nombre": "Don Error 500",
+        "clase": "Villano informatico",
+        "habilidad_especial": "Crear mucho caos a su alrededor",
+        "nivel": 98
+    }
+    ,{
+        "creador": "Michell Aranzalez",
+        "nombre": "El Guerrero Del Codigo",
+        "clase": "Heroe del codigo",
+        "habilidad_especial": "Rafagas de codigo limpio que elimina varios enemigos en segundos",
+        "nivel": 90
+    }
+    ,{
+        "creador": "David Rodríguez",
+        "nombre": "Electrollick",
+        "clase": "Francotirador de Python",
+        "habilidad_especial": "Elimina bugs a distancia con scripts rápidos y precisos",
+        "nivel": 50
     }
 ]
+
 
 @router.get("/")
 def obtener_todos_los_personajes():
