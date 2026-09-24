@@ -24,26 +24,35 @@ UNIVERSO = [
         "habilidad_especial": "Hace inner joins con un solo hechizo",
         "nivel": 100
     },
-
     { 
         "creador": "Cristian Quevedo",
         "nombre": "fantasma real",
         "clase": "fantasma borra lineas",
         "habilidad_especial": "borra base de datos",
         "nivel": 67  
-    }
+    },
+    {
+        "creador": "Jeffry duarte",
+        "nombre": "izuichi",
+        "clase": "asesino-magico",
+        "habilidad_especial": "torcion testicular",
+        "nivel": 100
+
+    }        
     ,{
         "creador": "Cristhian Pulgarin",
         "nombre": "El emperador de la ia",
         "clase": "Emperador de inteligencia artificial",
         "habilidad_especial": "Hacer todo con ia jaja",
         "nivel": 1000
+    }
     ,{
         "creador": "Luna Hernandez",
         "nombre": "Lyra Noctis",
         "clase": "Hechicero Espacial",
         "habilidad_especial": "Crear portales entre planetas",
         "nivel": 150
+    }
     ,{
         "creador": "Maria Paula Padilla Calderon",
         "nombre": "Don Error 500",
