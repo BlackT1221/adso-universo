@@ -24,6 +24,13 @@ UNIVERSO = [
         "habilidad_especial": "Hace inner joins con un solo hechizo",
         "nivel": 100
     }
+    ,{
+            "creador": "Jonhatan Portillo",
+            "nombre": "Mango viche",
+            "clase": "Guerrero",
+            "habilidad_especial": "Chorro agri dulce",
+            "nivel": 102
+        }
 ]
 
 @router.get("/")
