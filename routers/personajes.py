@@ -24,6 +24,13 @@ UNIVERSO = [
         "habilidad_especial": "Hace inner joins con un solo hechizo",
         "nivel": 100
     },
+    { 
+        "creador": "Cristian Quevedo",
+        "nombre": "fantasma real",
+        "clase": "fantasma borra lineas",
+        "habilidad_especial": "borra base de datos",
+        "nivel": 67  
+    },
     {
         "creador": "Jeffry duarte",
         "nombre": "izuichi",
@@ -68,12 +75,12 @@ UNIVERSO = [
         "nivel": 50
     }
     ,{
-            "creador": "Jonhatan Portillo",
-            "nombre": "Mango viche",
-            "clase": "Guerrero",
-            "habilidad_especial": "Chorro agri dulce",
-            "nivel": 102
-        }
+        "creador": "Jonhatan Portillo",
+        "nombre": "Mango viche",
+        "clase": "Guerrero",
+        "habilidad_especial": "Chorro agri dulce",
+        "nivel": 102
+    }
 ]
 
 
