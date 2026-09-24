@@ -24,6 +24,13 @@ UNIVERSO = [
         "habilidad_especial": "Hace inner joins con un solo hechizo",
         "nivel": 100
     }
+    ,{
+         "creador": "Michell Aranzalez",
+        "nombre": "El Guerrero Del Codigo",
+        "clase": "Heroe del codigo",
+        "habilidad_especial": "Rafagas de codigo limpio que elimina varios enemigos en segundos",
+        "nivel": 90
+    }
 ]
 
 @router.get("/")
