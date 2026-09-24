@@ -23,6 +23,14 @@ UNIVERSO = [
         "clase": "Hechicero de las bases de datos",
         "habilidad_especial": "Hace inner joins con un solo hechizo",
         "nivel": 100
+    },
+    {
+        "creador": "Jeffry duarte",
+        "nombre": "izuichi",
+        "clase": "asesino-magico",
+        "habilidad_especial": "torcion testicular",
+        "nivel": 100
+
     }
 ]
 
