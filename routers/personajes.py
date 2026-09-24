@@ -15,7 +15,7 @@ UNIVERSO = [
         "clase": "Mago del Backend",
         "habilidad_especial": "Resuelve Bugs 500 con la mirada",
         "nivel": 99
-    }
+    },
     # ⬇ AGREGA TU PERSONAJE AQUÍ ABAJO (Recuerda poner la coma si eres el primero) ⬇
     {
         "creador": "Christian Martínez",
@@ -24,7 +24,7 @@ UNIVERSO = [
         "habilidad_especial": "Hace inner joins con un solo hechizo",
         "nivel": 100
     },    
-    ,{
+    {
         "creador": "Duvan Rodriguez",
         "nombre": "Cristian Chiquitin",
         "clase": "Maestro six seven",
@@ -88,6 +88,13 @@ UNIVERSO = [
         "habilidad_especial": "Chorro agri dulce",
         "nivel": 102
     }
+    ,{
+            "creador": "Santiago chaves",
+            "nombre": "jake",
+            "clase": "perro magico",
+            "habilidad_especial": "cambia formas y flexible",
+            "nivel": 150
+        }
 ]
 
 
